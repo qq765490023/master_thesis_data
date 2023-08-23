@@ -6,3 +6,5 @@ There are three folders here in total:
 - u-test is the folder that contains the data for doing u-test to know the differences between answers regarding with vision and without vision. 
 - "questionnaire data" contains the questionnaires that participants answered.
 - "questionnaires used" contains the questionnaires used for this experiment.
+
+- "prompts" contains the prompt discussed in the thesis
